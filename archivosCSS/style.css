@@ -1,0 +1,25 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.container-1{
+    min-height: 100vh;
+}
+.container-2{
+    background-color: rgb(56, 56, 56);
+    min-height: 100vh;
+}
+#boton1{
+    padding: 10px;
+    font-size: 20px;
+    width: 60px;
+}
+button.off{
+    border: 1px solid white;
+    transition: .5s;
+}
+button.on{
+    background-color: rgb(56, 56, 56);
+    color: white;
+    transition: .5s;
+}
